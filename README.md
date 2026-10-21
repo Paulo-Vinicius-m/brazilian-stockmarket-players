@@ -7,7 +7,7 @@ Notebook principal: [`Projeto1_EDII.ipynb`](Projeto1_EDII.ipynb).
 João Victor do Nascimento Ribeiro de Andrade · Paulo Vinicius de Mendonça Carvalho
 
 ## Vídeo
-https://youtu.be/... *(substituir pelo link final; até 15 min no total)*
+https://youtu.be/ayl-eRAv_-Y
 
 ## Problema e pergunta
 Companhias abertas parecem autônomas, mas muitas compartilham os mesmos administradores e conselheiros (*interlocking directorates*). Quem ocupa assentos em várias companhias funciona como canal de informação entre elas e pode concentrar poder decisório.
